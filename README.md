@@ -1,2 +1,1 @@
-# yellow_dwarf
-testing commits
+The Sun is the closest yellow dwarf star.
